@@ -1,6 +1,7 @@
 # M5Stack_RCA_StripeTelemoloDemo
-M5StackにRCAモジュールを接続して、ブラウン管ドラム用の縞表示する.
-8ANGLEモジュールで縞を操作することができる。
+M5StackにRCAモジュールを接続して、ブラウン管ドラム用の縞表示します。
+
+8ANGLEモジュールで縞を操作することができます。
 
 ![操作画面](<img/20230918_095946 - frame at 0m28s.jpg>)
 
